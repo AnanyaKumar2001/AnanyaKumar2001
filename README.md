@@ -16,13 +16,15 @@
 	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" alt="plotly" width="100" height="40"/> </a>
-	<a href="https://powerbi.microsoft.com/en-au/desktop/" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="mssql" width="40" height="40"/> </a>
+	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" alt="plotly" width="100" height="60"/> </a>
+</p>
+<p align="left">
 	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 	<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
 	<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
+	<a href="https://powerbi.microsoft.com/en-au/desktop/" rel="noreferrer"> <img src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843" alt="mssql" width="40" height="40"/> </a>
 </p>
 <p align="left">
 	<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -56,4 +58,3 @@
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyakumar2001&show_icons=true&locale=en&layout=compact" alt="ananyakumar2001" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyakumar2001&show_icons=true&locale=en" alt="ananyakumar2001" /></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyakumar2001&" alt="ananyakumar2001" /></p>
-
