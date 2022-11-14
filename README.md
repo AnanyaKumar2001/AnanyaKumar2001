@@ -16,6 +16,7 @@
 	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="50" height="40"/> </a>
 	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://rapids.ai/assets/images/Plotly_Dash_logo.png" alt="plotly" width="100" height="60"/> </a>
 </p>
 <p align="left">
