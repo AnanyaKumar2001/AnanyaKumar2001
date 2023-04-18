@@ -68,10 +68,10 @@
 	<a href="https://codepen.io/ananyakumar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" height="30" width="40" /></a>
 	<a href="https://replit.com/@AnanyaKumar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="repl" height="30" width="40" /></a>
 	<a href="https://kaggle.com/ananyakumar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" /></a>	
-</p>
+<!-- </p>
 <br>
 <h4 align="left">Others</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyakumar2001&show_icons=true&locale=en&layout=compact" alt="ananyakumar2001" height="195" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ananyakumar2001&show_icons=true&locale=en" alt="ananyakumar2001" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ananyakumar2001&show_icons=true&locale=en" alt="ananyakumar2001" /></p> -->
 <!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyakumar2001&" alt="ananyakumar2001" /></p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyakumar2001&label=Profile%20views&color=0e75b6&style=flat" alt="ananyakumar2001" /> </p> -->
