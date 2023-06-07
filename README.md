@@ -19,7 +19,7 @@
 	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="80" height="40"/> </a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
+<!-- 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a> -->
 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="40"/> </a>
 	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://aeiljuispo.cloudimg.io/v7/https://s3.amazonaws.com/moonup/production/uploads/1611174457784-5fa9ff3ea13e063b8b2b60cb.png?w=200&h=200&f=face" alt="plotly" width="40" height="40"/> </a>
 	<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/feaed7d398f1aa8b7b7bd67f9d3c450494cb2bf2/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="scrapy" width="60" height="20"/> </a>
