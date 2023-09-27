@@ -22,7 +22,7 @@
 <!-- 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a> -->
 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="40"/> </a>
 	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://aeiljuispo.cloudimg.io/v7/https://s3.amazonaws.com/moonup/production/uploads/1611174457784-5fa9ff3ea13e063b8b2b60cb.png?w=200&h=200&f=face" alt="plotly" width="40" height="40"/> </a>
-	<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/feaed7d398f1aa8b7b7bd67f9d3c450494cb2bf2/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="scrapy" width="60" height="20"/> </a>
+	<a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="scrapy" width="50" height="40"/> </a>
 </p>
 </p>
 
@@ -63,9 +63,10 @@
 	<a href="https://twitter.com/ananyakumar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="40" /></a>
 	<a href="https://instagram.com/sunny_01.07" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="40" /></a>
 	<a href="https://linkedin.com/in/ananya-kumar-mamillapalli-791ba4139" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="40" /></a>
+	<a href="https://codesandbox.io/u/ananyakumar2001" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1546886388603162627/OcKcRXmV_400x400.jpg" alt="codesandbox" height="30" width="40" /></a>
 	<a href="https://www.hackerearth.com/@ananyakumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackerearth" height="30" width="40" /></a>
 	<a href="https://www.hackerrank.com/ananyakumar2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank" height="30" width="40" /></a>
-	<a href="https://codesandbox.io/u/ananyakumar2001" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1546886388603162627/OcKcRXmV_400x400.jpg" alt="codesandbox" height="30" width="40" /></a>
+	<a href="https://leetcode.com/ananyakumar2001/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="leetcode" height="30" width="40" /></a>
 	<a href="https://codepen.io/ananyakumar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" height="30" width="40" /></a>
 	<a href="https://replit.com/@AnanyaKumar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="repl" height="30" width="40" /></a>
 	<a href="https://kaggle.com/ananyakumar2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" /></a>	
