@@ -1,5 +1,9 @@
-<h1 align="center">ANANYA KUMAR MAMILLAPALLI</h1>
-<h3 align="center">Artificial Intelligence || Machine Learning || Deep Learning || Data Science</h3>
+<h1 align="center">Ananya Kumar Mamillapalli</h1>
+<h3 align="center">Artificial Intelligence · Machine Learning · Deep Learning · Data Science</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+ML;Exploring+Deep+Learning;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
 
 <h4 align="left">Skills</h4>
