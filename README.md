@@ -79,15 +79,15 @@
 ### 🌐 Connect with Me
  
 <p align="left">
-  <a href="https://fb.com/ananyakumar.mamillapalli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="facebook" height="50" width="50"/></a>
-  <a href="https://x.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=x&logoColor=white" alt="x" height="50" width="50"/></a>
-  <a href="https://instagram.com/sunny_01.07" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" height="50" width="50"/></a>
-  <a href="https://linkedin.com/in/ananya-kumar-mamillapalli-791ba4139" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin" height="50" width="50"/></a>
-  <a href="https://codesandbox.io/u/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-151515?style=flat-square&logo=codesandbox&logoColor=white" alt="codesandbox" height="50" width="50"/></a>
-  <a href="https://www.hackerearth.com/@ananyakumar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-2C3454?style=flat-square&logo=hackerearth&logoColor=white" alt="hackerearth" height="50" width="50"/></a>
-  <a href="https://www.hackerrank.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="hackerrank" height="50" width="50"/></a>
-  <a href="https://leetcode.com/ananyakumar2001/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="leetcode" height="50" width="50"/></a>
-  <a href="https://codepen.io/ananyakumar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=codepen&logoColor=white" alt="codepen" height="50" width="50"/></a>
-  <a href="https://replit.com/@AnanyaKumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-F26207?style=flat-square&logo=replit&logoColor=white" alt="repl" height="50" width="50"/></a>
-  <a href="https://kaggle.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="kaggle" height="50" width="50"/></a>
+  <a href="https://fb.com/ananyakumar.mamillapalli" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook" height="50" width="50"/></a>
+  <a href="https://x.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/twitterx.png" alt="x" height="50" width="50"/></a>
+  <a href="https://instagram.com/sunny_01.07" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/instagram-new.png" alt="instagram" height="50" width="50"/></a>
+  <a href="https://linkedin.com/in/ananya-kumar-mamillapalli-791ba4139" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin" height="50" width="50"/></a>
+  <a href="https://codesandbox.io/u/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/codesandbox.png" alt="codesandbox" height="50" width="50"/></a>
+  <a href="https://www.hackerearth.com/@ananyakumar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-2C3454?style=flat-square&logo=hackerearth&logoColor=white&logoWidth=25" alt="hackerearth" height="50" width="50"/></a>
+  <a href="https://www.hackerrank.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-2EC866?style=flat-square&logo=hackerrank&logoColor=white&logoWidth=25" alt="hackerrank" height="50" width="50"/></a>
+  <a href="https://leetcode.com/ananyakumar2001/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-FFA116?style=flat-square&logo=leetcode&logoColor=black&logoWidth=25" alt="leetcode" height="50" width="50"/></a>
+  <a href="https://codepen.io/ananyakumar" target="_blank" rel="noreferrer"><img src="https://www.agnosticdev.com/sites/default/files/2015-12/codepen.png" alt="codepen" height="50" width="50"/></a>
+  <a href="https://replit.com/@AnanyaKumar2001" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/50/replit.png" alt="repl" height="50" width="50"/></a>
+  <a href="https://kaggle.com/ananyakumar2001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-20BEFF?style=flat-square&logo=kaggle&logoColor=white&logoWidth=25" alt="kaggle" height="50" width="50"/></a>
 </p>
